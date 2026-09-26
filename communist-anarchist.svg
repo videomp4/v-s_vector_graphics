@@ -27,12 +27,12 @@
      inkscape:zoom="2.7648207"
      inkscape:cx="97.836362"
      inkscape:cy="105.61264"
-     inkscape:window-width="1534"
+     inkscape:window-width="976"
      inkscape:window-height="937"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="g6">
     <inkscape:grid
        id="grid1"
        units="mm"
@@ -89,19 +89,6 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g4"
-       inkscape:label="hammer sickle"
-       style="display:none">
-      <path
-         id="rect1"
-         style="fill:#800000;stroke:#000000;stroke-width:0.0499999;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
-         d="m 15.528743,32.336203 5.833731,-5.833731 15.556131,15.556131 1.944699,-1.944699 -15.556131,-15.556131 3.889033,-3.889033 -3.889033,-3.889033 -3.889032,3.889033 -1.9447,1.944699 -1.944333,1.944333 z" />
-      <path
-         d="m 19.996034,19.695477 a 9.625,9.625 0 0 1 1.403165,-0.934713 9.625,9.625 0 0 1 11.383906,1.661143 9.625,9.625 0 0 1 -3.65e-4,13.611798 8.250001,8.250001 0 0 1 -11.667098,-3.67e-4 8.250001,8.250001 0 0 1 -0.0047,-0.0047 l -1.939596,-1.939596 -0.902557,0.902556 -0.795127,0.795128 -6.080748,6.080747 1.944334,1.944333 5.833732,-5.833732 a 11,11 0 0 0 15.556496,3.66e-4 11,11 0 0 0 0,-15.556861 11,11 0 0 0 -13.364782,-1.697319 11,11 0 0 0 -1.366623,0.971254 z"
-         style="fill:#800000;stroke:#000000;stroke-width:0.0499999;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
-         id="path4" />
-    </g>
-    <g
        id="g6"
        inkscape:label="communist anarchist"
        transform="matrix(1.1486593,-0.30778232,0.30778232,1.1486593,-12.507424,-2.476794)"
@@ -113,25 +100,26 @@
          height="19.57268"
          x="37.592365"
          y="0.23310605"
-         transform="rotate(45)" />
-      <g
-         id="g15"
-         transform="translate(1.3926498,0.3731594)"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.84091587;stroke-dasharray:none">
-        <path
-           id="path5"
-           style="fill:#ff0000;stroke:#000000;stroke-width:0.84091587;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill;stroke-dasharray:none"
-           d="m 17.011928,29.745583 7.356961,-1.971292 5.256615,19.617952 2.452475,-0.657138 -5.256615,-19.617952 4.904488,-1.314154 -1.314154,-4.904488 -4.904487,1.314154 -2.452475,0.657138 -2.452013,0.657014 z" />
-        <path
-           d="m 19.282276,21.435146 a 8.8857489,8.8857489 0 0 1 1.295394,-0.862922 8.8857489,8.8857489 0 0 1 10.509562,1.533559 8.8857489,8.8857489 0 0 1 -3.37e-4,12.566339 7.6163571,7.6163571 0 0 1 -10.771003,-3.39e-4 7.6163571,7.6163571 0 0 1 -0.0043,-0.0043 l -1.790625,-1.790624 -0.833235,0.833235 -0.734057,0.734057 -5.613715,5.613714 1.794999,1.794998 5.385671,-5.385671 a 10.155142,10.155142 0 0 0 14.361674,3.38e-4 10.155142,10.155142 0 0 0 0,-14.362011 10.155142,10.155142 0 0 0 -12.338296,-1.566956 10.155142,10.155142 0 0 0 -1.261659,0.896656 z"
-           style="fill:#ff0000;stroke:#000000;stroke-width:0.84091587;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill;stroke-dasharray:none"
-           id="path6" />
-      </g>
+         transform="rotate(45)"
+         inkscape:label="A extender" />
       <path
-         style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;fill:#800000;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:#000000;stroke-width:0.84091587;stroke-dasharray:none"
+         id="path5"
+         style="stroke:#000000;stroke-width:0.840916;stroke-dasharray:none;fill:#ff0000;display:inline;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+         d="m 17.011928,29.745583 7.356961,-1.971292 5.256615,19.617952 2.452475,-0.657138 -5.256615,-19.617952 4.904488,-1.314154 -1.314154,-4.904488 -4.904487,1.314154 -2.452475,0.657138 -2.452013,0.657014 z"
+         inkscape:label="hammer"
+         transform="translate(1.3926497,0.37315938)" />
+      <path
+         d="m 19.282276,21.435146 a 8.8857489,8.8857489 0 0 1 1.295394,-0.862922 8.8857489,8.8857489 0 0 1 10.509562,1.533559 8.8857489,8.8857489 0 0 1 -3.37e-4,12.566339 7.6163571,7.6163571 0 0 1 -10.771003,-3.39e-4 7.6163571,7.6163571 0 0 1 -0.0043,-0.0043 l -1.790625,-1.790624 -0.833235,0.833235 -0.734057,0.734057 -5.613715,5.613714 1.794999,1.794998 5.385671,-5.385671 a 10.155142,10.155142 0 0 0 14.361674,3.38e-4 10.155142,10.155142 0 0 0 0,-14.362011 10.155142,10.155142 0 0 0 -12.338296,-1.566956 10.155142,10.155142 0 0 0 -1.261659,0.896656 z"
+         style="stroke:#000000;stroke-width:0.840916;stroke-dasharray:none;fill:#ff0000;display:inline;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+         id="path6"
+         inkscape:label="sickle"
+         transform="translate(1.3926497,0.37315938)" />
+      <path
+         style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;fill:#800000;stroke:#000000;stroke-width:0.840916;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
          d="m 27.5,15.25 c -9.028787,0 -16.375,7.346213 -16.375,16.375 C 11.125,40.653787 18.471213,48 27.5,48 36.528787,48 43.875,40.653787 43.875,31.625 43.875,22.596213 36.528787,15.25 27.5,15.25 Z m 0,2.5 c 7.677687,0 13.875,6.197313 13.875,13.875 0,7.677687 -6.197313,13.875 -13.875,13.875 -7.677687,0 -13.875,-6.197313 -13.875,-13.875 0,-7.677687 6.197313,-13.875 13.875,-13.875 z"
          id="path9"
-         transform="rotate(45,25.008336,30.496588)" />
+         transform="rotate(45,25.008336,30.496588)"
+         inkscape:label="ring" />
     </g>
   </g>
   <path
@@ -142,7 +130,7 @@
      sodipodi:insensitive="true" />
   <path
      d="M 0,0 V 27.50013 A 27.499996,27.499996 0 0 1 27.50013,0 Z M 27.50013,0 A 27.499996,27.499996 0 0 1 54.999744,27.50013 V 0 Z M 54.999744,27.50013 A 27.499996,27.499996 0 0 1 27.50013,54.999744 H 54.999744 Z M 27.50013,54.999744 A 27.499996,27.499996 0 0 1 0,27.50013 v 27.499614 z"
-     style="display:inline;opacity:1;fill:#000000;stroke:#ff0000;stroke-width:0.5;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+     style="display:none;opacity:1;fill:#000000;stroke:#ff0000;stroke-width:0.5;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
      id="path7"
      inkscape:label="full-outline"
      sodipodi:insensitive="true" />
