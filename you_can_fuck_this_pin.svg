@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="55mm"
+   height="55mm"
+   viewBox="0 0 55 55"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="you_can_fuck_this_pin.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#333333"
+     bordercolor="#dfdfdf"
+     borderopacity="0.24705882"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#1f1f1f"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="3.5213636"
+     inkscape:cx="103.79502"
+     inkscape:cy="109.90061"
+     inkscape:window-width="1534"
+     inkscape:window-height="937"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="2.7500001"
+       spacingy="2.7500001"
+       empcolor="#000000"
+       empopacity="0.30196078"
+       color="#000000"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true"
+       dotted="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="41.574802"
+       y="83.149603"
+       width="182.74879"
+       height="93.543304"
+       id="rect1" />
+    <rect
+       x="41.574802"
+       y="114.3307"
+       width="139.37342"
+       height="59.405236"
+       id="rect12" />
+    <rect
+       x="62.362202"
+       y="83.149603"
+       width="176.69291"
+       height="135.11811"
+       id="rect11" />
+    <rect
+       x="20.787401"
+       y="-41.574802"
+       width="166.29921"
+       height="176.69291"
+       id="rect10" />
+    <rect
+       x="10.3937"
+       y="10.3937"
+       width="189.56734"
+       height="133.31799"
+       id="rect9" />
+  </defs>
+  <rect
+     style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+     id="rect8"
+     width="54.999996"
+     height="54.999996"
+     x="0"
+     y="0"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.349999;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill"
+       id="rect2"
+       width="54.999996"
+       height="54.999996"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-1.3399442,0.56696349)"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:1.1;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif Bold';letter-spacing:-5px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#782121;stroke:none;stroke-width:1.32283;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill"><tspan
+         x="41.574219"
+         y="117.70042"
+         id="tspan2">kill me</tspan></text>
+  </g>
+  <path
+     d="M 27.50013,0 A 27.499996,27.499996 0 0 0 0,27.50013 27.499996,27.499996 0 0 0 27.50013,54.999744 27.499996,27.499996 0 0 0 54.999744,27.50013 27.499996,27.499996 0 0 0 27.50013,0 Z m 0,5.4999227 A 22,22 0 0 1 49.499821,27.50013 22,22 0 0 1 27.50013,49.499821 22,22 0 0 1 5.4999227,27.50013 22,22 0 0 1 27.50013,5.4999227 Z"
+     style="display:inline;opacity:0.5;fill:#000000;stroke:none;stroke-linejoin:round;paint-order:stroke markers fill"
+     id="path8"
+     inkscape:label="crunch-ring"
+     sodipodi:insensitive="true" />
+  <path
+     d="M 0,0 V 27.50013 A 27.499996,27.499996 0 0 1 27.50013,0 Z M 27.50013,0 A 27.499996,27.499996 0 0 1 54.999744,27.50013 V 0 Z M 54.999744,27.50013 A 27.499996,27.499996 0 0 1 27.50013,54.999744 H 54.999744 Z M 27.50013,54.999744 A 27.499996,27.499996 0 0 1 0,27.50013 v 27.499614 z"
+     style="display:inline;opacity:1;fill:#000000;stroke:#ff0000;stroke-width:0.5;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+     id="path7"
+     inkscape:label="full-outline"
+     sodipodi:insensitive="true" />
+</svg>
