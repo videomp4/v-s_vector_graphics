@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="55mm"
+   height="55mm"
+   viewBox="0 0 55 55"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="0_single_template-44mm.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#333333"
+     bordercolor="#dfdfdf"
+     borderopacity="0.24705882"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#1f1f1f"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="2.6357036"
+     inkscape:cx="88.022036"
+     inkscape:cy="99.404195"
+     inkscape:window-width="1172"
+     inkscape:window-height="937"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="2.7500001"
+       spacingy="2.7500001"
+       empcolor="#000000"
+       empopacity="0.30196078"
+       color="#000000"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true"
+       dotted="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="41.574802"
+       y="114.3307"
+       width="139.37342"
+       height="59.405236"
+       id="rect12" />
+    <rect
+       x="62.362202"
+       y="83.149603"
+       width="176.69291"
+       height="135.11811"
+       id="rect11" />
+    <rect
+       x="20.787401"
+       y="-41.574802"
+       width="166.29921"
+       height="176.69291"
+       id="rect10" />
+    <rect
+       x="10.3937"
+       y="10.3937"
+       width="189.56734"
+       height="133.31799"
+       id="rect9" />
+  </defs>
+  <rect
+     style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+     id="rect8"
+     width="54.999996"
+     height="54.999996"
+     x="0"
+     y="0"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="baseline-shift:baseline;display:none;overflow:visible;opacity:1;vector-effect:none;stroke-width:1.5427;stroke-linejoin:round;paint-order:stroke markers fill;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       d="m 12.070928,42.612718 c 8.344045,8.517535 22.025112,8.658877 30.543088,0.31555 C 51.131993,34.58494 51.273114,20.904814 42.929071,12.387281 34.585027,3.8697473 20.90396,3.728405 12.385984,12.071732 3.868007,20.41506 3.7268859,34.095185 12.070928,42.612718 Z m 0.551039,-0.539739 C 4.5696455,33.853234 4.7055962,20.674372 12.92577,12.622741 21.145943,4.5711111 34.325711,4.7072751 42.378032,12.92702 c 8.052322,8.219746 7.91637,21.398607 -0.303803,29.450238 -8.220173,8.051631 -21.39994,7.915468 -29.452262,-0.304279 z"
+       id="path9" />
+    <circle
+       style="display:none;opacity:1;fill:none;stroke:#000000;stroke-width:0.487257;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="path12"
+       cx="-38.259605"
+       cy="-6.9787006"
+       r="15.160999"
+       transform="rotate(-145.33733)" />
+    <text
+       xml:space="preserve"
+       id="text10"
+       style="font-weight:bold;font-size:9.87777px;line-height:1.1;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond Bold';letter-spacing:-0.79375px;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:1;fill:#000000;stroke:none;stroke-width:1.88976;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"><textPath
+         xlink:href="#path12"
+         id="textPath13"><tspan
+           id="tspan11"
+           style="letter-spacing:-0.79375px">LOREM </tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       id="text11"
+       style="font-weight:bold;font-size:9.87777px;line-height:1.1;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond Bold';letter-spacing:0.26458333px;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:1;fill:#000000;stroke:none;stroke-width:1.88976;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"><textPath
+         xlink:href="#path9"
+         id="textPath12"><tspan
+           id="tspan12"
+           style="letter-spacing:0.26458333px">IPSUM</tspan></textPath></text>
+  </g>
+  <path
+     d="M 27.50013,0 A 27.499996,27.499996 0 0 0 0,27.50013 27.499996,27.499996 0 0 0 27.50013,54.999744 27.499996,27.499996 0 0 0 54.999744,27.50013 27.499996,27.499996 0 0 0 27.50013,0 Z m 0,5.4999227 A 22,22 0 0 1 49.499821,27.50013 22,22 0 0 1 27.50013,49.499821 22,22 0 0 1 5.4999227,27.50013 22,22 0 0 1 27.50013,5.4999227 Z"
+     style="display:inline;opacity:0.5;fill:#000000;stroke:none;stroke-linejoin:round;paint-order:stroke markers fill"
+     id="path8"
+     inkscape:label="crunch-ring"
+     sodipodi:insensitive="true" />
+  <path
+     d="M 0,0 V 27.50013 A 27.499996,27.499996 0 0 1 27.50013,0 Z M 27.50013,0 A 27.499996,27.499996 0 0 1 54.999744,27.50013 V 0 Z M 54.999744,27.50013 A 27.499996,27.499996 0 0 1 27.50013,54.999744 H 54.999744 Z M 27.50013,54.999744 A 27.499996,27.499996 0 0 1 0,27.50013 v 27.499614 z"
+     style="display:inline;opacity:1;fill:#000000;stroke:#ff0000;stroke-width:0.5;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+     id="path7"
+     inkscape:label="full-outline"
+     sodipodi:insensitive="true" />
+</svg>
