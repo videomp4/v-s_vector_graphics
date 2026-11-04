@@ -26,14 +26,14 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="2.6357036"
-     inkscape:cx="88.022036"
-     inkscape:cy="99.404195"
-     inkscape:window-width="1172"
-     inkscape:window-height="937"
+     inkscape:cx="87.832334"
+     inkscape:cy="99.404197"
+     inkscape:window-width="976"
+     inkscape:window-height="935"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="svg1">
     <inkscape:grid
        id="grid1"
        units="mm"
@@ -78,7 +78,7 @@
        id="rect9" />
   </defs>
   <rect
-     style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+     style="display:inline;opacity:1;fill:#999999;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
      id="rect8"
      width="54.999996"
      height="54.999996"
