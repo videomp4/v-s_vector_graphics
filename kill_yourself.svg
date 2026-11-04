@@ -27,7 +27,7 @@
      inkscape:zoom="2.6357036"
      inkscape:cx="87.832334"
      inkscape:cy="99.404197"
-     inkscape:window-width="1534"
+     inkscape:window-width="976"
      inkscape:window-height="935"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -109,10 +109,10 @@
        y="0"><tspan
          x="95.774759"
          y="94.514775"
-         id="tspan1">kill </tspan><tspan
+         id="tspan2">kill </tspan><tspan
          x="53.090863"
          y="122.96608"
-         id="tspan4">yourself.</tspan></text>
+         id="tspan3">yourself.</tspan></text>
     <g
        id="text4"
        style="font-size:28.4513px;line-height:1;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';text-align:center;letter-spacing:0px;white-space:pre;fill:#800000;stroke-width:5.00787;stroke-linejoin:bevel;paint-order:stroke markers fill"
@@ -128,13 +128,13 @@
   </g>
   <path
      d="M 27.50013,0 A 27.499996,27.499996 0 0 0 0,27.50013 27.499996,27.499996 0 0 0 27.50013,54.999744 27.499996,27.499996 0 0 0 54.999744,27.50013 27.499996,27.499996 0 0 0 27.50013,0 Z m 0,5.4999227 A 22,22 0 0 1 49.499821,27.50013 22,22 0 0 1 27.50013,49.499821 22,22 0 0 1 5.4999227,27.50013 22,22 0 0 1 27.50013,5.4999227 Z"
-     style="display:inline;opacity:0.5;fill:#000000;stroke:none;stroke-linejoin:round;paint-order:stroke markers fill"
+     style="display:none;opacity:0.5;fill:#000000;stroke:none;stroke-linejoin:round;paint-order:stroke markers fill"
      id="path8"
      inkscape:label="crunch-ring"
      sodipodi:insensitive="true" />
   <path
      d="M 0,0 V 27.50013 A 27.499996,27.499996 0 0 1 27.50013,0 Z M 27.50013,0 A 27.499996,27.499996 0 0 1 54.999744,27.50013 V 0 Z M 54.999744,27.50013 A 27.499996,27.499996 0 0 1 27.50013,54.999744 H 54.999744 Z M 27.50013,54.999744 A 27.499996,27.499996 0 0 1 0,27.50013 v 27.499614 z"
-     style="display:inline;opacity:1;fill:#000000;stroke:#ff0000;stroke-width:0.5;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+     style="display:none;opacity:1;fill:#000000;stroke:#ff0000;stroke-width:0.5;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
      id="path7"
      inkscape:label="full-outline"
      sodipodi:insensitive="true" />
